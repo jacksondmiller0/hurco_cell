@@ -11,7 +11,7 @@ from isaacsim.core.utils.types import ArticulationAction
 MODE = "exact"          # "drive" (before) or "exact" (after)
 ROOT = "/World/ur10e"   # Your articulation root path
 N_SAMPLES = 900         # About 30 s at 30 Hz
-OUT_DIR = r"C:\Omniverse_Training_Jackson\kit-app-template\ur_training\results"
+OUT_DIR = r"C:\Omniverse_Training_Jackson\hurco_cell\scripts\ur_training\results"
 
 BRIDGE_ORDER = ["shoulder_pan_joint", "shoulder_lift_joint", "elbow_joint",
                 "wrist_1_joint", "wrist_2_joint", "wrist_3_joint"]
