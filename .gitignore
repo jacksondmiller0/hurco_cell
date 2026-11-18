@@ -2,3 +2,6 @@ source/
 *.usd
 *.usdc
 __pycache__/
+*.step
+*.stp
+usd/ur10e/
